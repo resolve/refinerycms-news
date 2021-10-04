@@ -2,10 +2,10 @@ source 'http://rubygems.org'
 
 gemspec
 
-gem 'refinerycms', '~> 2.0.1'
+gem 'refinerycms', '~> 4.0.0'
 
 group :development, :test do
-  gem 'refinerycms-testing', '~> 2.0.0'
+  gem 'refinerycms-testing', '~> 4.0.0'
   gem 'guard-rspec', '~> 0.6.0'
 
   platforms :jruby do
