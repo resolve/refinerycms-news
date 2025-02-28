@@ -16,5 +16,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency    'refinerycms-core',     '>= 4.1.0'
   s.add_dependency    'refinerycms-settings', '>= 4.0'
-  s.add_dependency    'friendly_id',          '>= 5.1.0
+  s.add_dependency    'friendly_id',          '>= 5.1.0'
 end
